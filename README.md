@@ -10,7 +10,7 @@
 
 **Assignment:-**
 
-* [Week 1](https://prakashatma.github.io/Coursera-Web-Design-for-Everybody-Specialization/Course-2/week-1/)
+* [Week 1](https://prakashatma.github.io/Coursera-Web-Design-for-Everybody-Specialization/Course-2/Week-1/)
 * [Week 2](https://prakashatma.github.io/Coursera-Web-Design-for-Everybody-Specialization/Course-2/week-2/)
 * [Week 4](https://prakashatma.github.io/Coursera-Web-Design-for-Everybody-Specialization/Course-2/week-4/)
 

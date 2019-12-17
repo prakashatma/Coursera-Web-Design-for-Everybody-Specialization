@@ -18,8 +18,8 @@
 
 **Assignment:-**
 
-* [Week 2](https://prakashatma.github.io/Coursera-Web-Design-for-Everybody-Specialization/Course-3/week-2/)
-* [Week 3](https://prakashatma.github.io/Coursera-Web-Design-for-Everybody-Specialization/Course-3/week-3/)
+* [Week 2](https://prakashatma.github.io/Coursera-Web-Design-for-Everybody-Specialization/Course-3/Week-2/)
+* [Week 3](https://prakashatma.github.io/Coursera-Web-Design-for-Everybody-Specialization/Course-3/Week-3/)
 
 ### Course 4 - Advanced Styling with Responsive Design
 

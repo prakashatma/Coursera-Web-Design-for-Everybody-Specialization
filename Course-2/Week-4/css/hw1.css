@@ -1,0 +1,120 @@
+body{
+	margin: 50px 20px;
+}
+
+header{
+	background-image: url('../image/flywheel.jpg');
+ 	background-size: 100%;
+  	background-repeat: no-repeat;
+  	text-align: center;
+  	padding: 30px;
+  	height: 140px;
+}
+.active{
+	background: #fff;
+}
+
+.left img{
+	width: 200px;
+	height: 150px;
+	border: 1px solid black;
+	margin-top: 20px;
+
+}	
+main{
+	display: inline-flex;
+}
+
+.left{
+	background: red;
+	padding: 20px 30px;
+	display: inline-grid;
+
+	}
+.right{
+	float: right;
+	margin-right: 50px;
+	padding: 10px;
+
+
+}
+
+header{
+	font-variant: small-caps;
+	text-align: center;
+	margin: 8px;
+	padding-bottom: 50px; 
+	height: 140px;
+
+}
+
+nav a{
+	display: inline-block;
+	font-size: 1.1em;
+	margin:0px 20px;
+	border: 1px solid transparent;
+	 padding: 15px 40px;
+	 border-radius: 5px;
+}
+
+.right h2{
+	font-size: 2em;
+}
+
+header h1{
+ color: #fff;
+}
+
+******/*from here the week 4 / final week is starting */*******
+
+table{
+	 font-family: sans-serif;
+	  width: 75%;
+ 	 margin: 0px auto;
+ 	 color: #fff;
+
+}
+
+th{
+	padding: 10px;
+	border-radius: 5px 5px 0 0;
+	color: white;
+	font-size: 20px;
+	border-bottom: 2px solid #b1e153;
+  background: -webkit-linear-gradient(top, rgba(164,179,87,1) 0%, rgba(117,137,12,1) 37%, rgba(117,137,12,1) 68%, rgba(117,137,12,1) 100%);
+  background: -o-linear-gradient(top, rgba(164,179,87,1) 0%, rgba(117,137,12,1) 37%, rgba(117,137,12,1) 68%, rgba(117,137,12,1) 100%);
+  background: -ms-linear-gradient(top, rgba(164,179,87,1) 0%, rgba(117,137,12,1) 37%, rgba(117,137,12,1) 68%, rgba(117,137,12,1) 100%);
+  background: linear-gradient(to bottom, rgba(164,179,87,1) 0%, rgba(117,137,12,1) 37%, rgba(117,137,12,1) 68%, rgba(117,137,12,1) 100%);
+}
+}
+
+th:first-child{
+	text-align: left;
+}
+
+td{
+	background-color: #e4f5d3;
+	padding: 10px;
+	font-size: 20px;
+	opacity: 0.7;
+	font-weight: 600;
+	text-shadow: 2px 2px #fff;
+	 color: #848484;
+}
+
+td:first-child{
+	text-align: left;
+	padding-right: 50px;
+}
+
+td:hover{
+	opacity: 1;
+}
+
+td:nth-child(2n+0){
+	text-align: center;
+}
+
+td:last-child{
+	text-align: center;
+}
